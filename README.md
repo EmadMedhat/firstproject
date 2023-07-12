@@ -1,3 +1,4 @@
 # firstproject
 NOFRI from Matoi
-NANA ROHI.
+, NANA ROHI
+THANK YOU.
