@@ -1,6 +1,5 @@
 # ignore all .txt files
-*.txt
-
+test.txt
 # ignore all .log files 
 
 *.log
